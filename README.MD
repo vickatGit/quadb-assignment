@@ -11,11 +11,15 @@
 ```bash
 cd client
 npm install
+
+# after installation
 npm run start
 ```
 
 ```bash
 cd server
 npm install
+
+# after installation
 node server.js
 ```
